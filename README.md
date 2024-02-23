@@ -1,3 +1,8 @@
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
 ```mermaid
 erDiagram
 	families ||--|{ users : ""
